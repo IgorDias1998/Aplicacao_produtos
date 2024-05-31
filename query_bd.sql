@@ -16,5 +16,5 @@ CREATE TABLE Produto(
     pro_descricao VARCHAR(255),
     pro_nome VARCHAR(100) NOT NULL,
     pro_status VARCHAR(30),
-    pro_cod INT,
+    pro_cod INT
 );
